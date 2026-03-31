@@ -23,10 +23,6 @@ Sistema automatizado de verificação pré-lançamento da nave **Aurora Siger** 
 <img width="1272" height="628" alt="Captura de tela 2026-03-31 110826" src="https://github.com/user-attachments/assets/5d7110fc-fb03-492d-94d8-4a2acd23b21b" />
 
 
-![Dashboard](screenshots/dashboard.png)
-![Resumo](screenshots/resumo.png)
-![Excel](screenshots/excel.png)
-
 ## 🚀 Instruções de Execução
 
 ### **Opção 1: Google Colab (Recomendado)**
